@@ -2,5 +2,5 @@
 ### primer intento github
 Soy de Los Cardales, me gusta leer, mirar peliculas, remar en kayak 
 
-![](https://raw.githubusercontent.com/fgonsebatt/FelipeGonsebatt/blob/main/readme.md)
+![](https://github.com/fgonsebatt/FelipeGonsebatt/blob/main/foto.jpg?raw=true)
 
